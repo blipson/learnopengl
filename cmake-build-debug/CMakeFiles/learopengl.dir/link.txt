@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/learopengl.dir/main.cpp.o  -o learopengl 
